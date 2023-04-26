@@ -1,0 +1,19 @@
+{
+  "name": "carobicci-hookd",
+  "homepage": "https://ci.carobim",
+  "bugs": {
+    "url": "https://github.com/carobim/carobicci/issues",
+    "email": "bugs@carobim.net"
+  },
+  "license": "AGPL-3.0-only",
+  "type": "module",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carobim/carobicci.git"
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.6"
+  },
+  "private": true
+}
